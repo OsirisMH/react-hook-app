@@ -1,0 +1,17 @@
+body{
+    padding: 30px 5%;
+}
+
+#root > div > div > div.col-7 > ul > li > p{
+    cursor: pointer;
+}
+
+.list-group-item{
+    align-items: center;
+    display: flex;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: rgb(26, 105, 37);
+}

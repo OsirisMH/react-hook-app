@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing on <TodoListItem /> should render correctly 1`] = `
+<li
+  className="list-group-item d-fleX justify-content-between align-items-start"
+  key="1"
+>
+  <p
+    className="false"
+    onClick={[Function]}
+  >
+    1
+    .   
+    Aprender Mongo
+  </p>
+  <button
+    className="btn btn-danger"
+    onClick={[Function]}
+  >
+    Borrar
+  </button>
+</li>
+`;
